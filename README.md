@@ -52,9 +52,7 @@ To run this project locally:
 4. Tap on words or sentences to hear the correct pronunciation using Google Text-to-Speech.
 5. All user progress is securely stored in Firestore Database.
 
-## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-project/issues) if you want to contribute.
 
 
 
